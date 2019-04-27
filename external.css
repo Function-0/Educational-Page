@@ -1,0 +1,70 @@
+body {
+font-family: Verdana;
+background-color: #519331;
+}
+
+hr {
+color: #183F05;
+border-style: solid;
+}
+
+h3 {
+color: #183F05;
+background-color: #78BD57;
+}
+
+p {
+font-size: 12px;
+}
+
+ul {
+font-size: 12px;
+list-style-image: url("images/arrow_for_bullets.png");
+}
+
+figcaption {
+float: right;
+text-align: right;
+font-style: italic;
+font-size: 8px;
+text-indent: 0;
+}
+
+footer {
+font-size: 8px;
+}
+
+.content {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 1000px;
+}
+
+.examples {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 300px;
+height: 200px;
+border-style: solid;
+border-color: #316915;
+}
+
+.reference {
+font-size: 8px;
+}
+
+#banner {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 900px;
+height: 100px;
+}
+
+#copyright_self {
+font-size: 10px;
+color: #A3E185;
+background-color: #316915;
+}
